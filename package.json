@@ -1,0 +1,16 @@
+{
+  "name": "steam-close",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DemiPixel <luke5227@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "node-gd": "^1.1.0",
+    "request": "^2.69.0"
+  }
+}
